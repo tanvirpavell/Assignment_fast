@@ -1,0 +1,121 @@
+
+.image{
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-left: 200px;
+
+}
+.blue{
+    color: rgb(1, 139, 231);
+    font-family:sans-serif ;
+    font-size: 50px;
+}
+.fontsize{
+    font-size: 50px;
+}
+.button{
+background-color:rgb(1, 139, 231);
+padding: 12px 28px;
+font-size: 20px;
+color: aliceblue;
+font-family: sans-serif;
+border-radius: 8px;
+border: none;
+}
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 139, 231);
+}
+.black{
+    color:rgb(0, 0, 0);
+}
+.styling,.center{
+    text-align: center;
+}
+.mission{
+
+    background-color: aquamarine;
+    width: 250px;
+    height: 500px;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 50px;
+    border-top: 30px solid rgba(255, 255, 255, 0.85);
+  border-right: 30px solid transparent;
+  border-left: 0px solid transparent;
+}
+.pfonts{
+    font-family: Sans-serif;
+}
+.vission{
+    background-color: rgb(180, 106, 250);
+    width: 250px;
+    height: 500px;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 50px;
+    border-top: 30px solid rgba(255, 255, 255, 0.85);
+    border-right: 30px solid transparent;
+    border-left: 0px solid transparent;
+}
+.section,.section3,.section4,.flex{
+    display: flex;
+}
+.goal{
+    background-color: rgb(219, 117, 117);
+    width: 250px;
+    height: 500px;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 50px;
+    border-top: 30px solid rgba(255, 255, 255, 0.85);
+    border-right: 30px solid transparent;
+    border-left: 0px solid transparent;
+}
+.fontsize2{
+    font-family: Sans-serif;
+    font-size: 30px;
+}
+.colorred{
+    color: rgb(1, 139, 231) ;
+    font-family: Sans-serif;
+}
+.button2{
+    background-color:rgb(1, 139, 231);
+padding: 12px 28px;
+font-size: 20px;
+color: aliceblue;
+font-family: sans-serif;
+border-radius: 8px;
+border: none;
+}
+footer{
+    background-color: rgb(31, 1, 1);
+    color: aliceblue;
+    font-family: Sans-serif;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 100px;
+  padding: 20px;
+}
+.focus{
+    width: 50%;
+}
+.about{
+    border: 2px solid lightblue;
+    width: 50%;
+    margin: 10px;
+    padding: 15px;
+}
+.about_picture{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-left: 250px;
+    padding-bottom: 20px;
+    border-radius: 10%;
+}
